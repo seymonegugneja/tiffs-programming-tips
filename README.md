@@ -1,4 +1,4 @@
-# Welcome to Tiff's Programming Tips!
+# Welcome to Tiff's Programming Tips! ✨
 This guide is by no means an extensive list of things you need to know to be a CS student, but it does contain some tips that made my time in ECU's Computer Science Department a little bit easier.
 
 ### Index
